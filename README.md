@@ -17,13 +17,6 @@
 
 ---
 
-### 🏆 GitHub Achievements  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SumitDJakhal&theme=onedark&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</p>
-
----
-
 ### 🚀 Featured Projects  
 - 🔹 [Linux Voice Assistant (Shree)](https://github.com/SumitDJakhal/Jarvis.0/tree/Shree-2.3)  
 - 🔹 [Real-Time Chat Application (Sandesh)](https://github.com/SumitDJakhal/realtime_chatting_web_app)  
