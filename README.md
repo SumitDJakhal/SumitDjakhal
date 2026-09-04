@@ -49,8 +49,7 @@ Java (DSA), React, Linux, Full-Stack Development
 📄 Know about my experiences  
 [My Resume](https://github.com/SumitDJakhal/Sumit_Jakhal_Resume.pdf)  
 
-⚡ Fun fact  
-**I Think I am Innocent 😄**
+
 
 ---
 
