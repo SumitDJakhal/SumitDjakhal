@@ -96,16 +96,3 @@ Java (DSA), React, Linux, Full-Stack Development
 </p>
 
 ---
-
-### 📈 Contribution Graph  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SumitDJakhal&bg_color=1a1b27&color=38bdae&line=38bdae&point=ffffff&area=true&hide_border=true" alt="contribution graph"/>
-</p>
-
----
-
-### 🐍 Contribution Snake  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SumitDJakhal/dispaly/output/snake-dark.svg#gh-dark-mode-only" alt="Snake animation dark"/>
-  <img src="https://raw.githubusercontent.com/SumitDJakhal/dispaly/output/snake-light.svg#gh-light-mode-only" alt="Snake animation light"/>
-</p>
