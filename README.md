@@ -83,16 +83,4 @@ Java (DSA), React, Linux, Full-Stack Development
   <img src="https://img.shields.io/badge/Spring%20Boot-Java%20Framework-brightgreen?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot"/>
 </p>
 
----
-
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SumitDJakhal&show_icons=true&theme=radical" alt="stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumitDJakhal&layout=compact&theme=radical" alt="langs" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SumitDJakhal&theme=radical" alt="streak"/>
-</p>
-
----
+------
