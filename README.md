@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F72F&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Sumit+Jakhal;MCA+Student+%40+Mumbai+University;Java+%7C+DSA+%7C+Full+Stack+%7C+Linux;Always+Learning+New+Things+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">🎓 MCA Student @ Mumbai University (CGPA: 9.45 in 4th Sem)</h3>
+<h3 align="center">🎓 MCA Student @ Mumbai University (SGPA: 9.45 in 4th Sem) Overall 7.75</h3>
 <h3 align="center">💻 Java (Primary) | Data Structures & Algorithms (DSA) | Full-Stack Developer | Linux Enthusiast 🚀</h3>
 <h4 align="center">⚡ Passionate about solving problems with Java DSA, building scalable applications, and exploring AI & automation</h4>
 
